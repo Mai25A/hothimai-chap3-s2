@@ -1,0 +1,5 @@
+- what are the security issues in this website ?
+    => client can see password and protected content
+    + The website's security issue is that users can see the password inside the script file in the network tab.
+- how to correct using PHP
+    + I created a php file to replace the script.
